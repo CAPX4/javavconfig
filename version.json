@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "changelog": "Initial release with auto-update support",
+  "download_url": "http://loader.freakcourt.com",
+  "min_launcher_version": "1.0.0",
+  "release_date": "2024-12-17"
+}
