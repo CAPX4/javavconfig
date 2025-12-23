@@ -7,7 +7,7 @@
   "patcher_description": "Latest modpack patcher with config download support",
   
   "shaders_version": "1.5",
-  "shaders_url": "http://shadr.freakcourt.com",
+  "shaders_url": "http://shdr.freakcourt.com",
   "shaders_description": "Shader optimization tool for better FPS",
   
   "nvidium_version": "1.2",
