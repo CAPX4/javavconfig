@@ -1,7 +1,27 @@
 {
-  "version": "1.0.0",
-  "changelog": "Initial release with auto-update support",
-  "download_url": "http://loader.freakcourt.com",
-  "min_launcher_version": "1.0.0",
-  "release_date": "2024-12-17"
+  "launcher_version": "1.0",
+  "last_updated": "2024-12-23",
+  
+  "patcher_version": "2.1",
+  "patcher_url": "http://patcher.freakcourt.com",
+  "patcher_description": "Latest modpack patcher with config download support",
+  
+  "shaders_version": "1.5",
+  "shaders_url": "http://shaders.freakcourt.com",
+  "shaders_description": "Shader optimization tool for better FPS",
+  
+  "nvidium_version": "1.2",
+  "nvidium_url": "http://nvidium.freakcourt.com",
+  "nvidium_description": "Nvidium mod installer for non-shader users",
+  
+  "changelog": {
+    "1.0": [
+      "Initial release",
+      "Version checker implemented",
+      "Auto-download and launch system",
+      "Support for 3 tools: Patcher, Shaders, Nvidium"
+    ]
+  },
+  
+  "notes": "All URLs should point to direct download links for .exe or .py files"
 }
