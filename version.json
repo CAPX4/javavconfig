@@ -1,6 +1,6 @@
 {
   "launcher_version": "1.0",
-  "last_updated": "2024-12-23",
+  "last_updated": "2025-12-23",
   
   "patcher_version": "2.1",
   "patcher_url": "http://modup.freakcourt.com",
@@ -11,7 +11,7 @@
   "shaders_description": "Shader optimization tool for better FPS",
   
   "nvidium_version": "1.2",
-  "nvidium_url": "http://nvidium.freakcourt.com",
+  "nvidium_url": "http://nvid.freakcourt.com",
   "nvidium_description": "Nvidium mod installer for non-shader users",
   
   "changelog": {
